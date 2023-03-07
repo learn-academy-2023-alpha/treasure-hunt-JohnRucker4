@@ -38,6 +38,10 @@ As a developer, you are tasked with creating a treasure hunt game. The user will
 -Create some conditional logic to check if selected box is the winning box or losing box when clicking on the box
 
 - As a user, I can click on a “Play Again” button that will restart the game.
+-Branch: play-again
+-Create a button with "Play Again" with onClick that will reset the game
+
+
 - As a user, I can see a counter that shows how many guesses I have left. The counter starts at five and decrements one every time I click on a square that is not the treasure nor the bomb.
 - As a user, I can see a message informing me that I won the game if I select the square that contains the treasure.
 - As a user, I can see a message informing me that I lost the game if I select the square that contains the bomb.
